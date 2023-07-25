@@ -1,1 +1,1 @@
-# deviceid-swift
+# deviceid-JS
